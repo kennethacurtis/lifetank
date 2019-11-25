@@ -6,9 +6,64 @@
     <description>Recent content in Categories on Life Tank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
     
 	<atom:link href="https://github.com/pages/kennethacurtis/lifetank/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Article</title>
+      <link>https://github.com/pages/kennethacurtis/lifetank/categories/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://github.com/pages/kennethacurtis/lifetank/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>https://github.com/pages/kennethacurtis/lifetank/categories/fashion/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://github.com/pages/kennethacurtis/lifetank/categories/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://github.com/pages/kennethacurtis/lifetank/categories/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://github.com/pages/kennethacurtis/lifetank/categories/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://github.com/pages/kennethacurtis/lifetank/categories/nature/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://github.com/pages/kennethacurtis/lifetank/categories/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://github.com/pages/kennethacurtis/lifetank/categories/philosophy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://github.com/pages/kennethacurtis/lifetank/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valuable Idea</title>
+      <link>https://github.com/pages/kennethacurtis/lifetank/categories/valuable-idea/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://github.com/pages/kennethacurtis/lifetank/categories/valuable-idea/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Life Tank</title>
+    <link>https://github.com/pages/kennethacurtis/lifetank/about/</link>
+    <description>Recent content in About on Life Tank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://github.com/pages/kennethacurtis/lifetank/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
