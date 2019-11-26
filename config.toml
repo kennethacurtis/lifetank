@@ -5,7 +5,7 @@ defaultContentLanguage = "en"
 title = "Life Tank"
 theme = "parsa-hugo"
 publishDir = "docs"
-# canonifyURLs = true
+canonifyURLs = true
 
 summaryLength = "10"
 paginate = 8
