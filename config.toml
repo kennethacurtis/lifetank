@@ -8,7 +8,7 @@ publishDir = "docs"
 canonifyURLs = true
 
 summaryLength = "10"
-paginate = 8
+paginate = 10
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
