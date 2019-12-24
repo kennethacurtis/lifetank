@@ -64,6 +64,11 @@ paginate = 10
   URL = "contact"
   weight = 3
 
+  [[menu.main]]
+  name = "Posts"
+  URL = "posts"
+  weight = 4
+
 
 [params]
 logo = "images/logo.png"

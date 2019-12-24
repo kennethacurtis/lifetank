@@ -1,6 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+description: "this is a meta description"
+type: "post"
 draft: false
 image: "images/foodpic.jpg"
 categories: 
