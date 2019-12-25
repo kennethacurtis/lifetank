@@ -1,13 +1,12 @@
 ---
 title: "Thoughts on Death Stranding"
 description: "this is a meta description"
-type: "post"
+type: "featured"
 date: 2019-12-23T22:18:50-05:00
 draft: false
-image: "images/foodpic.jpg"
+image: "images/DeathStranding-Hero5002.jpg"
 categories: 
-  - "games"
-  - "video games"
+  - "Video Games"
 tags:
   - "games"
   - "video"
