@@ -105,12 +105,12 @@ copyright = "a theme by [themefisher.com](themefisher.com)"
   # footer
   [params.footer]
 
-    #address
-    # [[params.footer.addresses]]
-    # address = "Sydney"
     
-    # [[params.footer.addresses]]
-    # address = "6 rip carl Avenue CA 90733"
+    [[params.footer.addresses]]
+    address = "Sydney"
+    
+    [[params.footer.addresses]]
+    address = "6 rip carl Avenue CA 90733"
 
     
     #contact information
