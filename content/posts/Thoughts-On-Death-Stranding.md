@@ -1,10 +1,10 @@
 ---
 title: "Thoughts on Death Stranding"
-description: "this is a meta description"
+description: "After finishing the game, experience exceded expectations"
 type: "featured"
 date: 2019-12-23T22:18:50-05:00
 draft: false
-image: "images/DeathStranding-Hero5002.jpg"
+image: "images/DeathStranding-Hero5002.png"
 categories: 
   - "Video Games"
 tags:
