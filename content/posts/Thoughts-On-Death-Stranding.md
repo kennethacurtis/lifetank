@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Death Stranding"
 description: "After finishing the game, experience exceded expectations"
-type: "featured"
+type: "post"
 date: 2019-12-23T22:18:50-05:00
 draft: false
 image: "images/DeathStranding-Hero5002.png"
@@ -14,3 +14,8 @@ tags:
 ---
 
 whoa dude
+
+>test the comments blahhhhhhhh
+
+* this is a list
+* another point
