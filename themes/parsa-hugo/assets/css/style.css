@@ -334,7 +334,7 @@ a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #fdefe6 !important;
+  background: #fff89d !important;
 }
 
 .text-primary {
@@ -802,7 +802,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #fdefe6;
+  background: #fff89d;
   padding: 20px;
   font-weight: 600;
 }
