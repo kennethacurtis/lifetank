@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lifetank.life/categories/</loc>
-    <lastmod>2019-12-23T22:18:50-05:00</lastmod>
+    <loc>https://lifetank.life/</loc>
+    <lastmod>2020-11-02T22:21:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/posts/</loc>
+    <lastmod>2020-11-02T22:21:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/tags/</loc>
+    <lastmod>2020-11-02T22:21:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/posts/testpost/</loc>
+    <lastmod>2020-11-02T22:21:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/tags/untagged/</loc>
+    <lastmod>2020-11-02T22:21:48-06:00</lastmod>
   </url>
   
   <url>
@@ -13,22 +33,7 @@
   </url>
   
   <url>
-    <loc>https://lifetank.life/</loc>
-    <lastmod>2019-12-23T22:18:50-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lifetank.life/tags/playstation/</loc>
-    <lastmod>2019-12-23T22:18:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lifetank.life/posts/</loc>
-    <lastmod>2019-12-23T22:18:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lifetank.life/tags/</loc>
     <lastmod>2019-12-23T22:18:50-05:00</lastmod>
   </url>
   
@@ -39,11 +44,6 @@
   
   <url>
     <loc>https://lifetank.life/tags/video/</loc>
-    <lastmod>2019-12-23T22:18:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lifetank.life/categories/video-games/</loc>
     <lastmod>2019-12-23T22:18:50-05:00</lastmod>
   </url>
   
@@ -60,6 +60,14 @@
   <url>
     <loc>https://lifetank.life/search/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/series/</loc>
   </url>
   
 </urlset>

@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life Tank</title>
+    <title>Hello Friend NG</title>
     <link>https://lifetank.life/</link>
-    <description>Recent content on Life Tank</description>
+    <description>Recent content on Hello Friend NG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Dec 2019 22:18:50 -0500</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 02 Nov 2020 22:21:48 -0600</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>https://lifetank.life/posts/testpost/</link>
+      <pubDate>Mon, 02 Nov 2020 22:21:48 -0600</pubDate>
+      
+      <guid>https://lifetank.life/posts/testpost/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Thoughts on Death Stranding</title>
       <link>https://lifetank.life/posts/thoughts-on-death-stranding/</link>
