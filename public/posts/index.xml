@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello Friend NG</title>
+        <link>localhost/posts/</link>
+        <description>Recent content in Posts on Hello Friend NG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 23 Dec 2019 22:18:50 -0500</lastBuildDate>
+        <atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Thoughts on Death Stranding</title>
+            <link>localhost/posts/thoughts-on-death-stranding/</link>
+            <pubDate>Mon, 23 Dec 2019 22:18:50 -0500</pubDate>
+            
+            <guid>localhost/posts/thoughts-on-death-stranding/</guid>
+            <description>whoa dude
+ test the comments blahhhhhhhh
+  this is a list another point  </description>
+            <content type="html"><![CDATA[<p>whoa dude</p>
+<blockquote>
+<p>test the comments blahhhhhhhh</p>
+</blockquote>
+<ul>
+<li>this is a list</li>
+<li>another point</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

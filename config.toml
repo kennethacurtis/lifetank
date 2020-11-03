@@ -1,139 +1,55 @@
-baseURL = "https://kennethacurtis.github.io/lifetank/"
-languageCode = "en-US"
-defaultContentLanguage = "en"
-
-title = "Life Tank"
-theme = "parsa-hugo"
-publishDir = "docs"
-canonifyURLs = true
-
-summaryLength = "10"
-paginate = 10
-
-[outputs]
-  home = ["HTML", "AMP", "RSS", "JSON"]
-  page = ["HTML"]
-
-# Plugins
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/headroom/headroom.js"
-  [[params.plugins.js]]
-  URL = "plugins/instafeed/instafeed.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/masonry/masonry.js"
-  [[params.plugins.js]]
-  URL = "plugins/reading-time/readingTime.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/smooth-scroll/smooth-scroll.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
-  [[params.plugins.js]]
-  URL = "plugins/search/search.js"
-  
-
-  
-# navigation
-[menu]
-    
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 2
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 3
-
-  [[menu.main]]
-  name = "Posts"
-  URL = "posts"
-  weight = 4
-
+baseurl      = "localhost"
+title        = "My Blog"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
 
 [params]
-logo = "images/logo.png"
-home = "Home"
-# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
-homeLayoutToggle = true
-# Meta data
-description = "This is meta description"
-# about author
-author = "Kenneth Curtis"
-authorImage = "images/banner-img.png"
-shortDescription = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
-# Contact Form Action
-contactFormAction = "#"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
-# copyright
-copyright = "a theme by [themefisher.com](themefisher.com)"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-  # Preloader
-  [params.preloader]
-  enable = true
-  
-  # search
-  [params.search]
-  enable = true
+  # Subtitle for home
+  homeSubtitle = "A simple and beautiful blog"
 
-  # Instagram feed
-  [params.instafeed]
-  enable = true
-  userID = "17841400367350047"
-  accessToken = "IGQVJXUl9kQjhhVmRkSm1VNE5yQnJhc1kwT0dFRmlpZADlGdVNHSFFGX1NhdkhMREIzN1dZAVUszUEN3YXRXRWI1RTlRcnY2RjNDNkt6LVoxS0daTTVJckpoRUFIS2s4TzlnVDdWVVF3"
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
 
-  # footer
-  [params.footer]
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
 
-    
-    [[params.footer.addresses]]
-    address = "Sydney"
-    
-    [[params.footer.addresses]]
-    address = "6 rip carl Avenue CA 90733"
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
 
-    
-    #contact information
-    [[params.footer.contacts]]
-    contactInfo = "Tel: +90 000 333 22"
-    
-    [[params.footer.contacts]]
-    contactInfo = "Mail: exmaple@ymail.com"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
 
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
 
-  # social site
-  [[params.social]]
-  icon = "ti-facebook"
-  URL = "#"
-  
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  URL = "#"
-  
-  [[params.social]]
-  icon = "ti-linkedin"
-  URL = "#"
-  
-  [[params.social]]
-  icon = "ti-github"
-  URL = "#"
+[languages]
+  [languages.en]
+    title = "Hello Friend NG"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "hello friend ng"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
