@@ -2,21 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>video on Life Tank</title>
-    <link>https://kennethacurtis.github.io/lifetank/tags/video/</link>
+    <link>https://lifetank.life/tags/video/</link>
     <description>Recent content in video on Life Tank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 23 Dec 2019 22:18:50 -0500</lastBuildDate>
-    
-	<atom:link href="https://kennethacurtis.github.io/lifetank/tags/video/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 23 Dec 2019 22:18:50 -0500</lastBuildDate><atom:link href="https://lifetank.life/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thoughts on Death Stranding</title>
-      <link>https://kennethacurtis.github.io/lifetank/posts/thoughts-on-death-stranding/</link>
+      <link>https://lifetank.life/posts/thoughts-on-death-stranding/</link>
       <pubDate>Mon, 23 Dec 2019 22:18:50 -0500</pubDate>
       
-      <guid>https://kennethacurtis.github.io/lifetank/posts/thoughts-on-death-stranding/</guid>
+      <guid>https://lifetank.life/posts/thoughts-on-death-stranding/</guid>
       <description>whoa dude
  test the comments blahhhhhhhh
   this is a list another point  </description>
