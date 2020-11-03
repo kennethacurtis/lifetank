@@ -1,8 +1,14 @@
-baseurl      = "localhost"
-title        = "My Blog"
-languageCode = "en-us"
-theme        = "hello-friend-ng"
-paginate     = 10
+baseURL = "https://kennethacurtis.github.io/lifetank/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Life Tank"
+theme = "hello-friend-ng"
+publishDir = "docs"
+canonifyURLs = true
+
+summaryLength = "10"
+paginate = 10
 
 [params]
   dateform        = "Jan 2, 2006"
