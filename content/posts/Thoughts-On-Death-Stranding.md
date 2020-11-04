@@ -11,11 +11,13 @@ tags:
   - "games"
   - "video"
   - "playstation"
+  - "hideo kojima"
 ---
 
-whoa dude
+Story Synopsis:
+The game is set in the United States following a cataclysmic event which caused destructive creatures to begin roaming the Earth. Players control Sam Porter Bridges (Norman Reedus), a courier tasked with delivering supplies to isolated colonies and reconnecting them via a wireless communications network.
 
->test the comments blahhhhhhhh
+>test the comments 
 
 * this is a list
 * another point
