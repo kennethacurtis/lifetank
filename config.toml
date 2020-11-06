@@ -42,6 +42,10 @@ paginate = 10
     name = "github"
     url = "https://github.com/kennethacurtis/lifetank"
 
+  [[params.social]]
+    name = "discord"
+    url = "https://discord.gg/rvZshvZRtj"
+
 [languages]
   [languages.en]
     title = "Life Tank"
