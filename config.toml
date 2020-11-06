@@ -38,6 +38,10 @@ paginate = 10
     tag      = "tags"
     series   = "series"
 
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/kennethacurtis/lifetank"
+
 [languages]
   [languages.en]
     title = "Life Tank"
@@ -55,7 +59,12 @@ paginate = 10
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+[menu]
   [[menu.main]]
     identifier = "blog"
-    name       = "Blog"
+    name       = "Posts"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
