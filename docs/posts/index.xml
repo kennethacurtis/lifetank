@@ -6,8 +6,19 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-US</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Thu, 05 Nov 2020 13:53:32 -0600</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2020 17:33:15 -0500</lastBuildDate>
         <atom:link href="https://lifetank.life/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Whoami_kenneth</title>
+            <link>https://lifetank.life/posts/whoami_kenneth/</link>
+            <pubDate>Sun, 08 Nov 2020 17:33:15 -0500</pubDate>
+            
+            <guid>https://lifetank.life/posts/whoami_kenneth/</guid>
+            <description>test test</description>
+            <content type="html"><![CDATA[<p>test test</p>
+]]></content>
+        </item>
         
         <item>
             <title>2019|2020 Booklist</title>
@@ -121,25 +132,6 @@
 <p>I Hope you find what you are looking for.</p>
 <p><em>Nathan</em></p>
 <p><em>find me @</em><a href="https://twitter.com/nathan_jcurtis">nathan_jcurtis</a></p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Thoughts on Death Stranding</title>
-            <link>https://lifetank.life/posts/thoughts-on-death-stranding/</link>
-            <pubDate>Mon, 23 Dec 2019 22:18:50 -0500</pubDate>
-            
-            <guid>https://lifetank.life/posts/thoughts-on-death-stranding/</guid>
-            <description>Story Synopsis: The game is set in the United States following a cataclysmic event which caused destructive creatures to begin roaming the Earth.</description>
-            <content type="html"><![CDATA[<p>Story Synopsis:
-The game is set in the United States following a cataclysmic event which caused destructive creatures to begin roaming the Earth. Players control Sam Porter Bridges (Norman Reedus), a courier tasked with delivering supplies to isolated colonies and reconnecting them via a wireless communications network.</p>
-<blockquote>
-<p>test the comments</p>
-</blockquote>
-<ul>
-<li>this is a list</li>
-<li>another point</li>
-</ul>
 ]]></content>
         </item>
         
