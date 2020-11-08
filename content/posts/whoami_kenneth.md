@@ -1,7 +1,7 @@
 ---
-title: "whoami(2)"
+title: "whoami_kenneth"
 date: 2020-11-08T16:50:15-05:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
