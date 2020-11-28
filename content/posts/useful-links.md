@@ -8,6 +8,18 @@ tags:
   - productivity
 ---
 
+- [Favorites](#favorites)
+  - [archive.org - The Internet Archive](#archiveorg---the-internet-archive)
+  - [furturetimeline.net](#furturetimelinenet)
+  - [futureme.org](#futuremeorg)
+  - [ninite.com](#ninitecom)
+  - [10minutemail.com](#10minutemailcom)
+  - [pointerpointer.com](#pointerpointercom)
+- [Other favorites](#other-favorites)
+  - [Utility](#utility)
+  - [Consumers](#consumers)
+  - [Productivity](#productivity)
+  - [Learning](#learning)
 
 It's the day after Thanksgiving, you're sitting around and wondering "why have I looked at the same links on Reddit five times already?". Or maybe you just need to look busy to avoid contact with those other humans in your house. You're in luck, because here is a collection of some interesting sites that may help you be (or look) productive. I will start with my favorites, then list some sites according to category
 
