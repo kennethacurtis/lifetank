@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lifetank.life/tags/about/</loc>
-    <lastmod>2020-11-08T16:50:15-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lifetank.life/</loc>
-    <lastmod>2020-11-08T16:50:15-05:00</lastmod>
+    <lastmod>2020-11-27T14:41:06-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://lifetank.life/posts/</loc>
-    <lastmod>2020-11-08T16:50:15-05:00</lastmod>
+    <lastmod>2020-11-27T14:41:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/tags/productivity/</loc>
+    <lastmod>2020-11-27T14:41:06-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://lifetank.life/tags/</loc>
+    <lastmod>2020-11-27T14:41:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/posts/useful-links/</loc>
+    <lastmod>2020-11-27T14:41:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lifetank.life/tags/about/</loc>
     <lastmod>2020-11-08T16:50:15-05:00</lastmod>
   </url>
   
