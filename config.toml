@@ -1,74 +1,54 @@
 baseURL = "https://lifetank.life/"
-languageCode = "en-US"
-defaultContentLanguage = "en"
-
-title = "Life Tank"
-theme = "hello-friend-ng"
-publishDir = "docs"
 canonifyURLs = true
-
-summaryLength = "10"
+defaultContentLanguage = "en"
+languageCode = "en-US"
 paginate = 10
-
+publishDir = "docs"
+summaryLength = "10"
+theme = "hello-friend-ng"
+title = "Life Tank"
+[languages.en]
+copyright = "<a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC 4.0</a>"
+keywords = ""
+readOtherPosts = "Read other posts"
+subtitle = "A simple theme for Hugo"
+title = "Life Tank"
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "Life Tank"
+[[menu.main]]
+name = "Resources"
+url = "/resources"
+weight = 3
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "about/"
+weight = 1
+[[menu.main]]
+identifier = "blog"
+name = "Posts"
+url = "/posts"
+weight = 2
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
-
-  # Subtitle for home
-  homeSubtitle = "a blog about life and sensemaking"
-
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  disableReadOtherPosts = false
-
-  # Enable sharing buttons, if you linke
-  enableSharingButtons = true
-
-  # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
-  images = [""]
-
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
-
+dateform = "Jan 2, 2006"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04"
+dateformShort = "Jan 2"
+defaultTheme = "dark"
+description = "My new homepage or blog"
+disableReadOtherPosts = false
+enableSharingButtons = true
+homeSubtitle = "a blog about life and sensemaking"
+images = [""]
+keywords = "homepage, blog"
+[[params.social]]
+name = "github"
+url = "https://github.com/kennethacurtis/lifetank"
+[[params.social]]
+name = "discord"
+url = "https://discord.gg/rvZshvZRtj"
 [taxonomies]
-    category = "blog"
-    tag      = "tags"
-    series   = "series"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/kennethacurtis/lifetank"
-
-  [[params.social]]
-    name = "discord"
-    url = "https://discord.gg/rvZshvZRtj"
-
-[languages]
-  [languages.en]
-    title = "Life Tank"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "Life Tank"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-  # And you can even create generic menu
-[menu]
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Posts"
-    url        = "/posts"
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
+category = "blog"
+series = "series"
+tag = "tags"
