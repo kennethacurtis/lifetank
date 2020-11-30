@@ -5,6 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/contact
+  label: Contact
+  create: all
+  match: "**/*"
+  new_doc_ext: contact.md
+  templates:
+  - default
+- type: directory
   path: content/about
   label: About
   create: all
