@@ -17,10 +17,6 @@ title = "Life Tank"
 logoHomeLink = "/"
 logoText = "Life Tank"
 [[menu.main]]
-name = "Resources"
-url = "/resources"
-weight = 3
-[[menu.main]]
 identifier = "about"
 name = "About"
 url = "about/"
