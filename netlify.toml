@@ -10,7 +10,10 @@
   HUGO_ENV = "development"
   HUGO_ENABLEGITINFO = "true"
 
+[context.production]
+  command = "hugo version"
 [context.production.environment]
+  NODE_ENV = "production"
   HUGO_VERSION = "0.74.0" # if older, use format: 0.53 (no trailing zero)
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
