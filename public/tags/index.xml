@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eureka Demo</title>
-    <link>/tags/</link>
+    <link>https://lifetank.life/tags/</link>
     <description>Recent content in Tags on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Fri, 27 Nov 2020 14:41:06 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 14:41:06 -0500</lastBuildDate><atom:link href="https://lifetank.life/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>productivity</title>
-      <link>/tags/productivity/</link>
+      <link>https://lifetank.life/tags/productivity/</link>
       <pubDate>Fri, 27 Nov 2020 14:41:06 -0500</pubDate>
       
-      <guid>/tags/productivity/</guid>
+      <guid>https://lifetank.life/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>/tags/about/</link>
+      <link>https://lifetank.life/tags/about/</link>
       <pubDate>Sun, 08 Nov 2020 16:50:15 -0500</pubDate>
       
-      <guid>/tags/about/</guid>
+      <guid>https://lifetank.life/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>untagged</title>
-      <link>/tags/untagged/</link>
+      <link>https://lifetank.life/tags/untagged/</link>
       <pubDate>Thu, 05 Nov 2020 13:53:32 -0600</pubDate>
       
-      <guid>/tags/untagged/</guid>
+      <guid>https://lifetank.life/tags/untagged/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>/tags/personal/</link>
+      <link>https://lifetank.life/tags/personal/</link>
       <pubDate>Mon, 02 Nov 2020 22:21:48 -0600</pubDate>
       
-      <guid>/tags/personal/</guid>
+      <guid>https://lifetank.life/tags/personal/</guid>
       <description></description>
     </item>
     
