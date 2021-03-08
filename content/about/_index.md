@@ -29,9 +29,12 @@ The Portal
 ---
 
 #### Software
-&nbsp;&nbsp; Currently, I run [Windows 10 Home](https://www.microsoft.com/en-us/p/windows-10-home/d76qx4bznwk4?activetab=pivot%3aoverviewtab) and most of my work is done in this OS. Additionally, I run a [Kali Linux](https://www.kali.org/) remote desktop environment. Most of my writing for the site is done in VS Code using markdown. I try to stick to using a CLI daily, so I use [Git Bash](https://git-scm.com/downloads/guis) for Git/file management and [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) for scripting Windows admin tasks.  
-&nbsp;&nbsp; Notetaking is mostly done in [Simplenote](https://simplenote.com/), although it's organizational UI is lacking. I also use [Google Docs](https://www.google.com/docs/about/) for extensive note taking and for temporary link repositories. Firefox is where I spend alot of my research time. (extensions: [Night Eye](https://nighteye.app/), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Ghostery](https://www.ghostery.com/)).  
-&nbsp;&nbsp; When working on programming projects, I use [Python v3.x](https://www.python.org/downloads/windows/), usually in an [Anaconda](https://docs.conda.io/projects/conda/en/latest/) environment. For data report projects I use [Jupyter Notebooks](https://jupyter.org/) and for ML/DL training, I use [Google Colab Pro](https://colab.research.google.com/signup).    
+Currently, I run [Windows 10 Home](https://www.microsoft.com/en-us/p/windows-10-home/d76qx4bznwk4?activetab=pivot%3aoverviewtab) and most of my work is done in this OS. Additionally, I run a [Kali Linux](https://www.kali.org/) remote desktop environment. Most of my writing for the site is done in VS Code using markdown. I try to stick to using a CLI daily, so I use [Git Bash](https://git-scm.com/downloads/guis) for Git/file management and [Powershell](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1) for scripting Windows admin tasks.  
+
+Notetaking is mostly done in [Simplenote](https://simplenote.com/), although it's organizational UI is lacking. I also use [Google Docs](https://www.google.com/docs/about/) for extensive note taking and for temporary link repositories. Firefox is where I spend alot of my research time. (extensions: [Night Eye](https://nighteye.app/), [HTTPS Everywhere](https://www.eff.org/https-everywhere), [Ghostery](https://www.ghostery.com/)). 
+
+When working on programming projects, I use [Python v3.x](https://www.python.org/downloads/windows/), usually in an [Anaconda](https://docs.conda.io/projects/conda/en/latest/) environment. For data report projects I use [Jupyter Notebooks](https://jupyter.org/) and for ML/DL training, I use [Google Colab Pro](https://colab.research.google.com/signup).
+
 *Misc* : [f.lux](), [Zoom](), [Spotify](), [Discord](), [OBS Studio](), [Speccy](), [Plex Media Server](), [PCEqualizer]().
 
 <br/>
@@ -39,7 +42,9 @@ The Portal
 #### Hardware
 
 **Computer**  
-&nbsp;&nbsp; In mid 2020, I went for a desktop replacement laptop. The past several years I would usually build a desktop PC from curated parts for my specific needs like gaming and deep learning. To shed the responsibility of constant cable management, updating drivers, and motherboard issues, I opted for portability for a slight loss in computing power. The computing loss has been negligible. This time, I went with a refurbished 2020 Razer Blade Pro 17. So far, it's been a solid replacement. I would not say that portability for this machine is comparable to other laptops but what it's lacking in that department, it definitely makes up for it in processing power. So far, I've had a great experience with Razer as a whole, so I was eager to try it's flagship computer. Comparing to MSI or Alien, this laptop is twice as thin and cooling has not been an issue so far.  
+
+In mid 2020, I went for a desktop replacement laptop. The past several years I would usually build a desktop PC from curated parts for my specific needs like gaming and deep learning. To shed the responsibility of constant cable management, updating drivers, and motherboard issues, I opted for portability for a slight loss in computing power. The computing loss has been negligible. This time, I went with a refurbished 2020 Razer Blade Pro 17. So far, it's been a solid replacement. I would not say that portability for this machine is comparable to other laptops but what it's lacking in that department, it definitely makes up for it in processing power. So far, I've had a great experience with Razer as a whole, so I was eager to try it's flagship computer. Comparing to MSI or Alien, this laptop is twice as thin and cooling has not been an issue so far. 
+
 **Specs:**
 - Processor: Intel i7-9750H CPU @ 2.60GHz, 2601 Mhz, 6 Cores, 12 Logical 
 - GPU: NVIDIA GeForce RTX 2070 Max-Q
@@ -70,7 +75,9 @@ Used in connection with my Razer machine. I run a few other computers but they a
 Email: koenrane@protonmail.com  
 Bitcoin:  
 CELO:  
-PGP Key:  
+PGP Key: 
+ 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----  
 mQGNBGBCeq4BDADgO8Ch7tbGhfx02ykhYd//CACJ+JBP+glOvf+uzS76uvuTb4e+
 PUVAy2PBOEtKXoM1Rk4jhcolurk5Zo4cAJKyNqFoJatrWzMuPvh6KEsK658ptoQR
@@ -121,5 +128,5 @@ ydLSro0qR7j9fKZtZZSB/aHq0ttBs+uDOJotQ/wObBIv0ymiRouV4CMl3VHtHHjx
 KrZYstPa+4uuhP7y4VASRsHM
 =U2DV  
 -----END PGP PUBLIC KEY BLOCK-----
-
+```
 

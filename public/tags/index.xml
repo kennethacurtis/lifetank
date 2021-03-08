@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hello Friend NG</title>
-    <link>localhost/tags/</link>
-    <description>Recent content in Tags on Hello Friend NG</description>
+    <title>Tags on Eureka Demo</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 23 Dec 2019 22:18:50 -0500</lastBuildDate><atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Fri, 27 Nov 2020 14:41:06 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>games</title>
-      <link>localhost/tags/games/</link>
-      <pubDate>Mon, 23 Dec 2019 22:18:50 -0500</pubDate>
+      <title>productivity</title>
+      <link>/tags/productivity/</link>
+      <pubDate>Fri, 27 Nov 2020 14:41:06 -0500</pubDate>
       
-      <guid>localhost/tags/games/</guid>
+      <guid>/tags/productivity/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>playstation</title>
-      <link>localhost/tags/playstation/</link>
-      <pubDate>Mon, 23 Dec 2019 22:18:50 -0500</pubDate>
+      <title>about</title>
+      <link>/tags/about/</link>
+      <pubDate>Sun, 08 Nov 2020 16:50:15 -0500</pubDate>
       
-      <guid>localhost/tags/playstation/</guid>
+      <guid>/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>video</title>
-      <link>localhost/tags/video/</link>
-      <pubDate>Mon, 23 Dec 2019 22:18:50 -0500</pubDate>
+      <title>untagged</title>
+      <link>/tags/untagged/</link>
+      <pubDate>Thu, 05 Nov 2020 13:53:32 -0600</pubDate>
       
-      <guid>localhost/tags/video/</guid>
+      <guid>/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Mon, 02 Nov 2020 22:21:48 -0600</pubDate>
+      
+      <guid>/tags/personal/</guid>
       <description></description>
     </item>
     
