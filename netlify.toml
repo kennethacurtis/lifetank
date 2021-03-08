@@ -2,8 +2,13 @@
   publish = "docs"
   command = "hugo"
 
-[build] 
+[context.branch-deploy]
   command = "hugo version"
+[context.branch-deploy.environment]
+  NODE_ENV = "development"
+  HUGO_VERSION = "0.74.0" # if older, use format: 0.53 (no trailing zero)
+  HUGO_ENV = "development"
+  HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_VERSION = "0.74.0" # if older, use format: 0.53 (no trailing zero)
