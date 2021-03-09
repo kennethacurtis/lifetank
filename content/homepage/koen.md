@@ -1,12 +1,12 @@
 ---
-title: 
+title: Lifetank
 draft: false
-role: koenrane/louielouielouie
-avatar: images/icon.png
+role: 
+avatar: images/fractals1.jpg
 bio: 
 organization:
   name: 
-  url: https://example.com/
+  url: 
 social:
   - icon: envelope
     iconPack: fas
@@ -16,7 +16,7 @@ social:
     url: https://example.com/
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/kennethacurtis/lifetank
 
 weight: 1
 widget:
@@ -40,8 +40,5 @@ widget:
     # Options: center, top, right, bottom, left.
     position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---
-
-
-
