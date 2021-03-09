@@ -1,6 +1,6 @@
 ---
 title: Vintage
-draft: false
+draft: true
 slogan: "One thing only I know, and that is that I know nothing - Socrates"
 imgLeft: 
 imgRight: 
