@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lifetank.life/about/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://lifetank.life/</loc>
     <lastmod>2020-11-27T14:41:06-05:00</lastmod>
   </url>
@@ -94,7 +98,6 @@
   
   <url>
     <loc>https://lifetank.life/about/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
   
   <url>

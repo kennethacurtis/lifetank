@@ -10,6 +10,23 @@
 </copyright>
     <lastBuildDate>Fri, 27 Nov 2020 14:41:06 -0500</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Koen</title>
+      <link>https://lifetank.life/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lifetank.life/about/about/</guid>
+      <description>Koen Rane
+I am an independent researcher and writer who is interested in many different general topics which include computers, machine learning, applied complexity, existential risk, biohacking, and philosophy.
+ Websites  GitHub
+Twitter
+Reddit
+Discussion:
+LessWrong
+The Portal
+ Uses This  Software Currently, I run Windows 10 Home and most of my work is done in this OS. Additionally, I run a Kali Linux remote desktop environment. Most of my writing for the site is done in VS Code using markdown.</description>
+    </item>
+    
+    <item>
       <title>Useful Links for Anyone That Uses the Internet</title>
       <link>https://lifetank.life/posts/useful-links/</link>
       <pubDate>Fri, 27 Nov 2020 14:41:06 -0500</pubDate>
