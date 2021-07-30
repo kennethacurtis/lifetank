@@ -1,7 +1,7 @@
 ---
 title: "Being, Becoming, and Liquidity"
 date: 2021-07-30T08:42:32
-draft: true
+draft: false
 toc: false
 images:
 tags:
