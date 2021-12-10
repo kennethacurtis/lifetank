@@ -8,7 +8,7 @@
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Fri, 27 Nov 2020 14:41:06 -0500</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Nov 2021 10:31:03 -0600</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koen</title>
       <link>https://lifetank.life/about/about/</link>
@@ -24,6 +24,25 @@ Discussion:
 LessWrong
 The Portal
  Uses This  Software Currently, I run Windows 10 Home and most of my work is done in this OS. Additionally, I run a Kali Linux remote desktop environment. Most of my writing for the site is done in VS Code using markdown.</description>
+    </item>
+    
+    <item>
+      <title>Nov 2021 Newsletter</title>
+      <link>https://lifetank.life/posts/nov-2021-newsletter/</link>
+      <pubDate>Wed, 10 Nov 2021 10:31:03 -0600</pubDate>
+      
+      <guid>https://lifetank.life/posts/nov-2021-newsletter/</guid>
+      <description>These are articles that caught my attention throughout the month leading up to the day of posting. I have read all of them, but most I have not fully parsed. Time constraints only allow note taking on a few things I find during the month. At some point, I may publish my Roam notes
+The reading I do is not usually planned ahead of time, unless I see news promoting something being released. Usually, I stumble on a link or post while I&amp;rsquo;m poking around in a subject of interest.</description>
+    </item>
+    
+    <item>
+      <title>Being, Becoming, and Liquidity</title>
+      <link>https://lifetank.life/posts/being_becoming_liquidity_007/</link>
+      <pubDate>Fri, 30 Jul 2021 08:42:32 +0000</pubDate>
+      
+      <guid>https://lifetank.life/posts/being_becoming_liquidity_007/</guid>
+      <description>Being, Becoming, and Liquidity As a society, we have become so obsessed with Becoming that it takes away our ability to live in Being. What is Becoming? What is Being? I’ll try to connect these questions to a few topics and view them at a high level. I have a feeling that my definitions would not suffice if a strict philosopher were to view them written on paper, but I’m going to go with my own senses.</description>
     </item>
     
     <item>
@@ -60,42 +79,6 @@ The Portal
       
       <guid>https://lifetank.life/posts/whoami_002/</guid>
       <description>For some time I&amp;rsquo;ve wanted to take the time to write down thoughts and ideas. More than those general things, I&amp;rsquo;ve wanted to talk about what I&amp;rsquo;ve been researching and reading the past few years. My brother finally convinvced me to help him spin up a site that can hold all of those things. I hope to explore many things throughout the existence of this site, however long or short that is. Many things in life can happen that stifles productivity, maintaining a schedule, and writing well crafted articles.</description>
-    </item>
-    
-    <item>
-      <title>Chapter 1</title>
-      <link>https://lifetank.life/docs/example-doc/chapter-1/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lifetank.life/docs/example-doc/chapter-1/</guid>
-      <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 1</title>
-      <link>https://lifetank.life/docs/example-doc/nested-chapter/chapter-1/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lifetank.life/docs/example-doc/nested-chapter/chapter-1/</guid>
-      <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 2</title>
-      <link>https://lifetank.life/docs/example-doc/chapter-2/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lifetank.life/docs/example-doc/chapter-2/</guid>
-      <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Chapter 2</title>
-      <link>https://lifetank.life/docs/example-doc/nested-chapter/chapter-2/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://lifetank.life/docs/example-doc/nested-chapter/chapter-2/</guid>
-      <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
     </item>
     
   </channel>
