@@ -8,7 +8,7 @@
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 10 Nov 2021 10:31:03 -0600</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koen</title>
       <link>https://lifetank.life/about/about/</link>
@@ -24,6 +24,16 @@ Discussion:
 LessWrong
 The Portal
  Uses This  Software Currently, I run Windows 10 Home and most of my work is done in this OS. Additionally, I run a Kali Linux remote desktop environment. Most of my writing for the site is done in VS Code using markdown.</description>
+    </item>
+    
+    <item>
+      <title>Dec 2021 Newsletter</title>
+      <link>https://lifetank.life/posts/dec-2021-newsletter/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://lifetank.life/posts/dec-2021-newsletter/</guid>
+      <description>Newsletter for December 2021. As the structure of this newsletter forms over time, It seems that I am wanting to include more than just reading. A lot of my information consumption comes from podcasts and videos that I access throughout the day while I&amp;rsquo;m working. So far, it seems that they are important enough to me to mention here.
+It&amp;rsquo;s difficult not to naturally turn this into a historical repository of everything interesting I find on the internet.</description>
     </item>
     
     <item>
