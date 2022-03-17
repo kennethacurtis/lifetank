@@ -8,7 +8,7 @@
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://lifetank.life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Koen</title>
       <link>https://lifetank.life/about/about/</link>
@@ -24,6 +24,15 @@ Discussion:
 LessWrong
 The Portal
  Uses This  Software Currently, I run Windows 10 Home and most of my work is done in this OS. Additionally, I run a Kali Linux remote desktop environment. Most of my writing for the site is done in VS Code using markdown.</description>
+    </item>
+    
+    <item>
+      <title>2022 Bookantt Chart</title>
+      <link>https://lifetank.life/posts/2022_bookantt/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://lifetank.life/posts/2022_bookantt/</guid>
+      <description>  -- </description>
     </item>
     
     <item>
