@@ -43,7 +43,7 @@ widget:
     attachment: 
 ---
 
-I am an independent researcher and writer who is interested in many different general topics which include machine learning, applied complexity, existential risk, active inference, history and philosophy.
+I am an independent researcher and writer who is interested in many different general topics which include machine learning, applied complexity, existential risk, active inference, history and philosohpy. 
 
 <br/>
 
@@ -78,7 +78,7 @@ Notetaking is mostly done in [Roam Notes](https://roamresearch.com). It's been g
 
 **Computer**
 
-In mid 2020, I went for a desktop replacement laptop. The past several years I would usually build a desktop PC from curated parts for my specific needs like gaming and deep learning. To shed the responsibility of constant cable management, updating drivers, and motherboard issues, I opted for portability for a slight loss in computing power. The computing loss has been negligible. This time, I went with a refurbished 2020 Razer Blade Pro 17. So far, it's been a solid replacement. I would not say that portability for this machine is comparable to other laptops but what it's lacking in that department, it definitely makes up for it in processing power. So far, I've had a great experience with Razer as a whole, so I was eager to try it's flagship computer. Comparing to MSI or Alien, this laptop is twice as thin and cooling has not been an issue so far.  
+In mid 2020, I went for a desktop replacement laptop. For the past several years I would usually build a desktop PC from curated parts for my specific needs like gaming and deep learning. To shed the responsibility of constant cable management, updating drivers, and motherboard issues, I opted for portability for a slight loss in computing power. The computing loss has been negligible. This time, I went with a refurbished 2020 Razer Blade Pro 17. So far, it's been a solid replacement. I would not say that portability for this machine is comparable to other laptops but what it's lacking in that department, it definitely makes up for it in processing power. So far, I've had a great experience with Razer as a whole, so I was eager to try it's flagship computer. Comparing to MSI or Alien, this laptop is twice as thin and cooling has not been an issue so far.  
 
 *Specs:*
 - Processor: Intel i7-9750H CPU @ 2.60GHz, 2601 Mhz, 6 Cores, 12 Logical 
