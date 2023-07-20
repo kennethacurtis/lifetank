@@ -43,7 +43,7 @@ widget:
     attachment: 
 ---
 
-I am an independent researcher and writer who is interested in many different general topics which include computers, machine learning, applied complexity, existential risk, active inference and philosophy.
+I am an independent researcher and writer who is interested in many different general topics which include machine learning, applied complexity, existential risk, active inference, history and philosophy.
 
 <br/>
 
